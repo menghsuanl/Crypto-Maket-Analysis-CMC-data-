@@ -1,4 +1,4 @@
-# Exploring Crypto Market - Data Visualization
+# Visualizing Crypto Market Trend(Python)
 Crypto market is very dynamic and ever-changing. This project aims to provide a tool to explore the trend and visualize crypto market data. Leveraging the API of Coinmarketcap, the most trusted crypto data source, the project uses the latest crypto listing data to analyze the market share, volatility, and newly added coins. This project was inspired by and credited to Datacamp's "Exploring the Bitcoin Cryptocurrency Market" project, by Juan González-Vallinas.
 
 View jupyter notebook html
